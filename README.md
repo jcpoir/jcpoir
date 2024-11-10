@@ -1,4 +1,4 @@
-Hi all 🫡
+Hi all
 
 I am a data scientist with experience in natural language processing, deep learning, software engineering, and web systems. 
 
