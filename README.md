@@ -13,4 +13,4 @@ I started my career in data science in 2021 as a master's student at the Univers
 
 Since May, I've been working on-and-off on an end-to-end pipeline that will determine the relative efficiencies of NFL players and teams and use them to make predictions about future performance. So far, both matchup predictions and fantasy projections have been slightly more accurate on average than those provided by ESPN.
 
-View my project here: http://nfl-prophet.com.
+View my project here: https://nfl-prophet.com.
